@@ -142,6 +142,7 @@ locket @ file:///C:/ci/locket_1647006279389/work
 lxml @ file:///C:/ci/lxml_1646642862366/work
 Markdown @ file:///C:/ci/markdown_1614364082838/work
 MarkupSafe @ file:///C:/ci/markupsafe_1621528502553/work
+MarkupSafe==2.0.1
 matplotlib @ file:///C:/ci/matplotlib-suite_1647423638658/work
 matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
 mccabe==0.6.1
